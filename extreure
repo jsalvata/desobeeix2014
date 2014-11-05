@@ -17,5 +17,3 @@ find $D/trams -name "*.dat" -print0|xargs -0 perl generar-urls-taules.pl > urls-
 perl generar-urls-taules.pl $D/municipisUnLocal.dat >> urls-taules.lst
 wget -x -i urls-taules.lst
 
-# Necessari per a evitar problemes amb els accents a GitHub Pages:
-find . -name "*.html"|xargs grep -l ISO-8859-1|xargs -I% sh -c "perl -pi -e 's{^\s*<meta charset="ISO-8859-1" />\s*\n$}{};' %;iconv -f ISO-8859-1 -t UTF-8 % -o %.utf8; mv %.utf8 %"
