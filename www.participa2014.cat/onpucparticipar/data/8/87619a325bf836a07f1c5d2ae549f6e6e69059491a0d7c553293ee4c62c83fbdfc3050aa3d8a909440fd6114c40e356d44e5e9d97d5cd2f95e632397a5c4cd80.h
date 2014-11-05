@@ -1,0 +1,12 @@
+Esplugues de Llobregat|Institut La Mallola|c. Andreu Amat, 11|1258F|ECHAVARRIA|GARCIA||
+Esplugues de Llobregat|Institut La Mallola|c. Andreu Amat, 11|1256H|BELLISCO|CASTELLNOU||
+Esplugues de Llobregat|Institut La Mallola|c. Andreu Amat, 11|1259V|GARCIA|GRANADERO||
+Esplugues de Llobregat|Institut La Mallola|c. Andreu Amat, 11|1260Z|GRANADERO|LOPEZ||
+Esplugues de Llobregat|Institut La Mallola|c. Andreu Amat, 11|1265Y|ROMEU|SOLEDISPA||
+Esplugues de Llobregat|Institut La Mallola|c. Andreu Amat, 11|1263B|NAVARTA|PLAZAS||
+Esplugues de Llobregat|Institut La Mallola|c. Andreu Amat, 11|1262N|MARTRAT|NAVARTA||
+Esplugues de Llobregat|Institut La Mallola|c. Andreu Amat, 11|1266M|SOLEDISPA|ZZ||
+Esplugues de Llobregat|Institut La Mallola|c. Andreu Amat, 11|1255J|A|BELLISCO||
+Esplugues de Llobregat|Institut La Mallola|c. Andreu Amat, 11|1264C|PLAZAS|ROMEU||
+Esplugues de Llobregat|Institut La Mallola|c. Andreu Amat, 11|1261W|LOPEZ|MARTRAT||
+Esplugues de Llobregat|Institut La Mallola|c. Andreu Amat, 11|1257G|CASTELLNOU|ECHAVARRIA||
