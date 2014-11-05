@@ -1,0 +1,9 @@
+Sant Andreu de Llavaneres|Institut Llavaneres|pg. del Perelló, 2|4358T|IGNACIO|MARTINO||
+Sant Andreu de Llavaneres|Institut Llavaneres|pg. del Perelló, 2|4362G|SERRAS|ZZ||
+Sant Andreu de Llavaneres|Institut Llavaneres|pg. del Perelló, 2|4359S|MARTINO|PADIAL||
+Sant Andreu de Llavaneres|Institut Llavaneres|pg. del Perelló, 2|4356Q|CURADO|GARCIA||
+Sant Andreu de Llavaneres|Institut Llavaneres|pg. del Perelló, 2|4361H|RIVERO|SERRAS||
+Sant Andreu de Llavaneres|Institut Llavaneres|pg. del Perelló, 2|4354X|A|BROTONS||
+Sant Andreu de Llavaneres|Institut Llavaneres|pg. del Perelló, 2|4357P|GARCIA|IGNACIO||
+Sant Andreu de Llavaneres|Institut Llavaneres|pg. del Perelló, 2|4355K|BROTONS|CURADO||
+Sant Andreu de Llavaneres|Institut Llavaneres|pg. del Perelló, 2|4360J|PADIAL|RIVERO||

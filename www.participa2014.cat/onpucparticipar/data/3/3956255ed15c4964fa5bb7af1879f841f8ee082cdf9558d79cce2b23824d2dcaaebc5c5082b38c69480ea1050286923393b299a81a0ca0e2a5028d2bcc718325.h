@@ -1,0 +1,11 @@
+Vilanova del Camí|Pla de les Moreres|c. Cristòfor Colom, s/n|0441E|JULIAN|MARTINS||
+Vilanova del Camí|Pla de les Moreres|c. Cristòfor Colom, s/n|0446Q|TOLOSA|ZZ||
+Vilanova del Camí|Pla de les Moreres|c. Cristòfor Colom, s/n|0445K|RUS|TOLOSA||
+Vilanova del Camí|Pla de les Moreres|c. Cristòfor Colom, s/n|0437Y|BLANES|CHIGUER||
+Vilanova del Camí|Pla de les Moreres|c. Cristòfor Colom, s/n|0444X|PUIGGROS|RUS||
+Vilanova del Camí|Pla de les Moreres|c. Cristòfor Colom, s/n|0439U|FARRERA|GIMENO||
+Vilanova del Camí|Pla de les Moreres|c. Cristòfor Colom, s/n|0436C|A|BLANES||
+Vilanova del Camí|Pla de les Moreres|c. Cristòfor Colom, s/n|0442D|MARTINS|OCASAR||
+Vilanova del Camí|Pla de les Moreres|c. Cristòfor Colom, s/n|0440R|GIMENO|JULIAN||
+Vilanova del Camí|Pla de les Moreres|c. Cristòfor Colom, s/n|0443A|OCASAR|PUIGGROS||
+Vilanova del Camí|Pla de les Moreres|c. Cristòfor Colom, s/n|0438M|CHIGUER|FARRERA||

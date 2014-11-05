@@ -1,0 +1,11 @@
+Deltebre|Institut de Deltebre|av. de Catalunya, s/n|0809E|SUECA|ZZ||
+Deltebre|Institut de Deltebre|av. de Catalunya, s/n|0804C|GAVILAN|LLISO||
+Deltebre|Institut de Deltebre|av. de Catalunya, s/n|0802N|COMA|FELICIDAD||
+Deltebre|Institut de Deltebre|av. de Catalunya, s/n|0800Z|BARRIGA|CALLAU||
+Deltebre|Institut de Deltebre|av. de Catalunya, s/n|0801W|CALLAU|COMA||
+Deltebre|Institut de Deltebre|av. de Catalunya, s/n|0806M|MESTRES|PAVON||
+Deltebre|Institut de Deltebre|av. de Catalunya, s/n|0799V|A|BARRIGA||
+Deltebre|Institut de Deltebre|av. de Catalunya, s/n|0805Y|LLISO|MESTRES||
+Deltebre|Institut de Deltebre|av. de Catalunya, s/n|0803B|FELICIDAD|GAVILAN||
+Deltebre|Institut de Deltebre|av. de Catalunya, s/n|0808R|ROE|SUECA||
+Deltebre|Institut de Deltebre|av. de Catalunya, s/n|0807U|PAVON|ROE||

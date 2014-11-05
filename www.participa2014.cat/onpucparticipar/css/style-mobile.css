@@ -1,0 +1,34 @@
+	#popup,#popupTaula
+	{
+	    max-width: 800px;
+	    position: fixed;
+	    height:auto;
+	    top:0;
+	    left:0;
+	    transform: none;	   	 
+	    display: none;   	    
+	}
+	#popupTaula{
+		width:100%!important;
+	    height:100%!important; 
+	    overflow-y: scroll!important;
+	}
+	#butImprimir {
+		display:none;
+	}
+	
+	#popupTaulaInterior{
+		width:100%!important;
+	}
+	
+	#popupTaulaInterior table{
+		min-width:100%!important;		
+	}
+	
+	#centrePopup{
+		font-size:14px!important;
+	}
+	
+	#divBenvingut{
+		font-size:18px!important;;
+	}

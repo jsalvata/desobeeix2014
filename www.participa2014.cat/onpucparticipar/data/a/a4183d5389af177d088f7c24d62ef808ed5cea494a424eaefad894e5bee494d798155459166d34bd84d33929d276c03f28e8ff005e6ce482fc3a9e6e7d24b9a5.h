@@ -1,0 +1,11 @@
+Seu d'Urgell, la|Institut Joan Brudieu|c. Dr. Iglesias Navarri, 27|0309P|RAMON|SALAS||
+Seu d'Urgell, la|Institut Joan Brudieu|c. Dr. Iglesias Navarri, 27|0302R|BOLLO|CIRERA||
+Seu d'Urgell, la|Institut Joan Brudieu|c. Dr. Iglesias Navarri, 27|0310T|SALAS|TORRES||
+Seu d'Urgell, la|Institut Joan Brudieu|c. Dr. Iglesias Navarri, 27|0305A|GARRETA|JORDANA||
+Seu d'Urgell, la|Institut Joan Brudieu|c. Dr. Iglesias Navarri, 27|0301U|A|BOLLO||
+Seu d'Urgell, la|Institut Joan Brudieu|c. Dr. Iglesias Navarri, 27|0307K|MASANA|ORTONOBES||
+Seu d'Urgell, la|Institut Joan Brudieu|c. Dr. Iglesias Navarri, 27|0303E|CIRERA|ESPUNES||
+Seu d'Urgell, la|Institut Joan Brudieu|c. Dr. Iglesias Navarri, 27|0311S|TORRES|ZZ||
+Seu d'Urgell, la|Institut Joan Brudieu|c. Dr. Iglesias Navarri, 27|0304D|ESPUNES|GARRETA||
+Seu d'Urgell, la|Institut Joan Brudieu|c. Dr. Iglesias Navarri, 27|0306X|JORDANA|MASANA||
+Seu d'Urgell, la|Institut Joan Brudieu|c. Dr. Iglesias Navarri, 27|0308Q|ORTONOBES|RAMON||

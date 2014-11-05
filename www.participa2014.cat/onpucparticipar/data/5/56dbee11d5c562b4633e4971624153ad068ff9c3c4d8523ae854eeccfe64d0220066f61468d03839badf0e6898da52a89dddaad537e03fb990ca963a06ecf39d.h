@@ -1,0 +1,10 @@
+Santa Coloma de Farners|Institut de Santa Coloma de Farners|av. Salvador Espriu, s/n|5233S|LUCAS|MORAN||
+Santa Coloma de Farners|Institut de Santa Coloma de Farners|av. Salvador Espriu, s/n|5232T|GRACIA|LUCAS||
+Santa Coloma de Farners|Institut de Santa Coloma de Farners|av. Salvador Espriu, s/n|5229K|BORRELL|COMAJUAN||
+Santa Coloma de Farners|Institut de Santa Coloma de Farners|av. Salvador Espriu, s/n|5237F|SOLES|ZZ||
+Santa Coloma de Farners|Institut de Santa Coloma de Farners|av. Salvador Espriu, s/n|5228X|A|BORRELL||
+Santa Coloma de Farners|Institut de Santa Coloma de Farners|av. Salvador Espriu, s/n|5230Q|COMAJUAN|FERRERA||
+Santa Coloma de Farners|Institut de Santa Coloma de Farners|av. Salvador Espriu, s/n|5235H|PINTOR|ROMANO||
+Santa Coloma de Farners|Institut de Santa Coloma de Farners|av. Salvador Espriu, s/n|5231P|FERRERA|GRACIA||
+Santa Coloma de Farners|Institut de Santa Coloma de Farners|av. Salvador Espriu, s/n|5236G|ROMANO|SOLES||
+Santa Coloma de Farners|Institut de Santa Coloma de Farners|av. Salvador Espriu, s/n|5234J|MORAN|PINTOR||

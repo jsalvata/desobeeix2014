@@ -1,0 +1,15 @@
+Caldes de Montbui|Manolo Hugué|c. Josep Germà, 2|6367W|MONTOLIU|PADILLO||
+Caldes de Montbui|Manolo Hugué|c. Josep Germà, 2|6365V|LANCHO|MARTINEZ||
+Caldes de Montbui|Manolo Hugué|c. Josep Germà, 2|6372M|TRULLENQUE|ZZ||
+Caldes de Montbui|Manolo Hugué|c. Josep Germà, 2|6362H|ESPINOZA|GARCIA||
+Caldes de Montbui|Manolo Hugué|c. Josep Germà, 2|6359T|BARBARA|CAMPUZANO||
+Caldes de Montbui|Manolo Hugué|c. Josep Germà, 2|6368N|PADILLO|PRATCORONA||
+Caldes de Montbui|Manolo Hugué|c. Josep Germà, 2|6370C|ROF|SANJAUME||
+Caldes de Montbui|Manolo Hugué|c. Josep Germà, 2|6363G|GARCIA|GONZALO||
+Caldes de Montbui|Manolo Hugué|c. Josep Germà, 2|6369B|PRATCORONA|ROF||
+Caldes de Montbui|Manolo Hugué|c. Josep Germà, 2|6361J|CONFORME|ESPINOZA||
+Caldes de Montbui|Manolo Hugué|c. Josep Germà, 2|6366Z|MARTINEZ|MONTOLIU||
+Caldes de Montbui|Manolo Hugué|c. Josep Germà, 2|6364F|GONZALO|LANCHO||
+Caldes de Montbui|Manolo Hugué|c. Josep Germà, 2|6371Y|SANJAUME|TRULLENQUE||
+Caldes de Montbui|Manolo Hugué|c. Josep Germà, 2|6360S|CAMPUZANO|CONFORME||
+Caldes de Montbui|Manolo Hugué|c. Josep Germà, 2|6358P|A|BARBARA||

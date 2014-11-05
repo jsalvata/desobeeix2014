@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+	<title>Dónde Participar</title>
+	<!-- !CSS -->	
+	<link href="../css/oocss.css" rel="stylesheet">
+	<link href="../css/theme.css" rel="stylesheet">
+	<link href="../css/style.css" rel="stylesheet">
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+		<script src="../js/html5shiv.js"></script>
+		<script src="../js/respond.min.js"></script>
+		<script src="../js/selectivizr.js"></script>
+		<link rel="stylesheet" type="text/css" media="print" href="../css/style-ie-print.css"/>
+		<link rel="stylesheet" type="text/css" href="../css/style-ie.css"/>
+	<![endif]-->	
+	<link href="../css/style-mobile.css" rel="stylesheet" type="text/css" media="handheld, only screen and (max-device-width: 650px)" />
+</head>
+
+<body onload="filtreMunicipis(1);document.forms.frm.municipi.focus();iniciaPagina();">
+	<!-- !navbar -->
+	<header class="sticky">
+		<nav role="navigation">
+			<div class="container">
+				<div id="imatgeCap" class="nav-header">
+					<a target="_blank" href="http://web.gencat.cat/" title="Generalitat de Catalunya" class="navbar-brand logo"><img src="../assets/img/NG_logo_generalitat.png"></a>
+				</div>
+				<ul id="menu-main" class="languages nav-right">
+					<li class="hide"><a href="index.html">es</a></li>
+					<li><a href="../index.html">ca</a></li>
+				</ul>
+				<ul class="external_links nav-right">
+	              <li><a href="http://govern.cat/" target="_blank"><strong>govern</strong>.cat</a></li>
+	              <li><a href="http://president.cat/" target="_blank"><strong>president</strong>.cat</a></li>
+	              <li><a href="http://gencat.cat/" target="_blank"><strong>gencat</strong>.cat</a></li>
+	            </ul>
+			</div>
+		</nav>
+	</header>
+<!-- !main content -->
+	<div class="page-wrapper ptn">
+		<form class="form-block" role="form" name="frm" onsubmit="return false;">
+			<div id="paginaNoImprimible">
+				<div class="bg-color-light-grey">
+					<div style="text-align:center;background-color:#fff;">
+						<a href="index.html">
+							<img alt="9N 2014 Tú participas Tú decides" src="../assets/img/9Nparticipes.gif">
+						</a>
+					</div>
+					<br/>
+					<div id="divBenvingut" class="container">
+						<p class="fsm phn">Bienvenido/a al espacio de consulta de los locales para el proceso de participación sobre el futuro político de Cataluña</p>
+					</div>
+					<br/>
+					<div class="container" >
+						<p class="fsn phn">Rellene los campos siguientes para comprobar el local de participación que tiene asignado.
+						</p>
+					</div>
+				</div>				
+				<div style="background-color:#ffffff;">
+					<br/>	
+					<div class="container">									
+						<fieldset>
+							<div class="row">
+								<div class="col-md-12 col-xs-12">
+									<label class="control-label mbs">Municipio que consta en su DNI o su TIE
+										<span id="municipiOk" style="display:none;color:green;" class="fa fa-check-circle"></span>
+										<span id="municipiKo" style="display:none;color:red;" class="fa fa-times-circle"><small style="color:#c7254e;font-family:'OpenSansRegular',Helvetica,Arial,sans-serif">&nbsp;Tiene que seleccionar un municipio de la lista</small></span>
+									</label>
+								</div>
+								
+							</div>
+							<div class="row">
+								<div class="col-md-5 col-xs-12" style="padding-left:0;padding-right:0;">
+									<div id="municipi-holder" class="form-group col-md-12 col-xs-12">
+										<label for="municipi" class="sr-only">Municipio que consta en su DNI o su TIE</label>
+										<input class="form-control typeahead" disabled="disabled" maxlength="150" placeholder="Municipio que consta en su DNI o su TIE" type="text" id="municipi" onchange="toggle_visibilityMunicipi(this.id,this.value,document.forms.frm.desc_municipi.value,1);">									
+										<input type="hidden" id="codi_municipi">
+										<input type="hidden" id="desc_municipi">																
+									</div>
+								</div>
+								<div id="carregant_mun" class="form-group col-md-7 col-xs-12">
+									<span><i></i></span>
+								</div>				
+							</div>
+						</fieldset>
+						<fieldset id="divVia" style="display:none;">
+							<div class="row">							
+								<div class="col-md-12 col-xs-12">
+									<label class="control-label mbs">Nombre de la vía que consta en su DNI o su TIE
+										<span id="viaOk" style="display:none;color:green;" class="fa fa-check-circle"></span>
+										<span id="viaKo" style="display:none;color:red;" class="fa fa-times-circle"><small style="color:#c7254e;font-family:'OpenSansRegular',Helvetica,Arial,sans-serif">&nbsp;Esta calle no se encuentra en el municipio seleccionado, verifique que los datos sean correctos. Si el error persiste llame al 012.</small></span>
+									</label>
+								</div>
+							</div>
+							<div class="row">							
+								<div id="via-holder" style="display:none;" class="form-group col-md-5 col-xs-12">
+									<label for="via" class="sr-only">Nombre de la vía que consta en su DNI o su TIE</label>
+									<input disabled="disabled" class="form-control typeahead" maxlength="150" placeholder="Nombre de la vía que consta en su DNI o su TIE" type="text" id="via" onchange="toggle_visibilityVia(this.id,this.value,document.forms.frm.desc_via.value,1);">									
+									<input type="hidden" id="codi_via">
+									<input type="hidden" id="desc_via">
+									<input type="hidden" id="codi_municipi_via">
+								</div>
+								<div class="col-md-7 col-xs-12" style="padding-top:12px;padding-left:0px;">
+									<span class="fa fa-info-circle color-light-grey"><small style="font-family:'OpenSansRegular',Helvetica,Arial,sans-serif">&nbsp;En este campo sólo debe introducir la vía (por ejemplo: si usted vive en la avenida de la Diagonal, sólo tiene que introducir la palabra Diagonal.)</small></span>
+								</div>
+							</div>							
+						</fieldset>								
+						<fieldset >
+							<div class="row">
+								<div id="divTram1" style="display:none;" class="col-md-5 col-xs-12">
+									<label class="control-label mbs">Tramo de la vía que consta en su DNI o su TIE
+										<span id="tramOk" style="display:none;color:green;" class="fa fa-check-circle"></span>
+										<span id="tramKo" style="display:none;color:red;" class="fa fa-times-circle"><small style="color:#c7254e;font-family:'OpenSansRegular',Helvetica,Arial,sans-serif">&nbsp;Revise que los datos que ha introducido sean correctos y si no encuentra su núm., llame al 012.</small></span>
+									</label>
+								</div>							
+							</div>
+							<div id="divTram2" style="display:none;width:100%;" class="row">
+								<div class="form-group col-md-5 col-xs-12">
+									<label for="tram" class="sr-only">Tramo de la vía que consta en su DNI o su TIE</label>
+									<select disabled="disabled" class="form-control"  title="Número domicilio DNI" id="tram" onchange="toggle_visibilityTram(this.id,this.value,document.forms.frm.desc_tram.value);" onkeypress="if(event.keyCode == 13){if(this.value!='0'){document.forms.frm.cognom.focus();}}">
+										<option value="0" selected="selected">- Seleccionar -</option>
+									</select>									
+									<input type="hidden" id="codi_tram">
+									<input type="hidden" id="desc_tram">
+									<input type="hidden" id="codi_via_tram">
+								</div>	
+								<div class="col-md-7 col-xs-12" style="padding-top:12px;padding-left:0px;">
+									<span class="fa fa-info-circle color-light-grey"><small style="font-family:'OpenSansRegular',Helvetica,Arial,sans-serif">&nbsp;Revise que los datos que ha introducido sean correctos y si no encuentra su núm., llame al 012.</small></span>
+								</div>												
+							</div>
+						</fieldset>
+						<fieldset >
+							<div class="row">							
+								<div class="col-md-12 col-xs-12">
+									<label class="control-label mbs">Primer apellido que consta en su DNI o su TIE
+										<span id="cognomOk" style="display:none;color:green;" class="fa fa-check-circle"></span>
+										<span id="cognomKo" style="display:none;color:red;" class="fa fa-times-circle"><small style="color:#c7254e;font-family:'OpenSansRegular',Helvetica,Arial,sans-serif">&nbsp;El apellido tiene caracteres inválidos</small></span>
+									</label>
+								</div>
+							</div>
+							<div class="row">						
+								<div class="form-group col-md-5 col-xs-12">
+									<label for="tram" class="sr-only">Primer apellido que consta en su DNI o su TIE</label>
+									<input type="text" disabled="disabled" class="form-control" id="cognom" maxlength="100" placeholder="Primer apellido que consta en su DNI o su TIE" onchange="toggle_visibilityCognom(this.id,this.value);" onkeyup="toggle_visibilityCognom(this.id,this.value);" onkeypress="if(event.keyCode == 13){if(this.value!=''){document.forms.frm.butAccepta.focus();}}">
+								</div>
+							</div>
+						</fieldset>
+					</div>
+					<!-- bg-color-light-grey -->
+					<div class="container">
+						<div class="row mtl">
+							<div class="col-md-2 col-xs-12">
+								<div class="form-group">
+							        <button id="butAccepta" disabled="disabled" type="button" onclick="dcsMultiTrack('WT.cercar', 'Cerca%20de%20local');formvalidation(1);"  class="btn btn-primary w-100 pvm" style="width:100%">Aceptar</button>
+							    </div>						
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id='mask'></div>
+			<div id='popup'>
+			    <table style="width:100%;height:100%">
+				<tr>
+				<td align="center" style="text-align: -moz-center;">
+				<div id='popupInterior'>
+			    <table style="width:100%;">
+			    	<tr>
+			    		<td height="100%" valign="middle" align="left">
+						    <div class="container" style="max-width: 100%;width:auto;" >
+								<p id="msg" class="fsn phn"></p>
+							</div>							
+							<table id="tableTanca" style="width:100%;margin-bottom:10px;">
+			    			<tr>
+			    				<td valign="middle" align="center">
+			    					<br/>
+						   			<button id="butTanca" type="button" class="btn btn-primary w-100 pvm" onclick="hidePopup();" style="width:200px;">Cerrar</button>
+						   		</td>
+						   	</tr>
+						   	</table>
+			    		</td>
+			    	</tr>
+			    </table>
+			    </div>
+			    </td>
+			    </tr>
+			    </table>
+			</div>
+			<div id='popupTaula'>
+				<table style="width:100%;height:100%">
+				<tr>
+				<td align="center" style="text-align: -moz-center;">
+				<div id="popupTaulaInterior">
+			    <table>
+			    	<tr>
+			    		<td height="100%" valign="middle" align="left">
+						    <div class="container" style="max-width: 100%;width:auto;border-bottom:1px solid;" >
+								<h2 class="mtm fsxl" style="width:100%;text-align:center;">TARJETA DE PARTICIPACIÓN EN EL 9N</h2>
+								<p>De acuerdo con los datos de su DNI o TIE que ha introducido (municipio=<span id="taula_municipi"></span><span id="domicili">, domicilio=<span id="taula_via"></span></span> y primer apellido=<span id="taula_cognom"></span>), el local de participación que tiene asignado es:
+								</p>
+							</div>
+							<div id="centrePopup" class="container" >
+								<div class="row" style="margin-bottom:10px;">
+									<label class="control-label col-md-12 col-xs-12" >Municipio:&nbsp;<span id="municipi_punt"></span></label>
+								</div>
+								<div class="row" style="margin-bottom:10px;">
+									<label class="control-label col-md-12 col-xs-12">Local de participación:&nbsp;<span id="local"></span></label>
+								</div>				
+								<div id="divAdreca" class="row" style="margin-bottom:10px;">
+									<label class="control-label col-md-12 col-xs-12" >Dirección:&nbsp;<span id="adreca"></span></label>
+								</div>								
+								<div class="row" style="margin-bottom:10px;">
+									<label class="control-label col-md-12 col-xs-12">Mesa:&nbsp;<span id="mesa"></span></label>
+								</div>								
+							</div>
+							<div id="butonsTaules" class="container" style="max-width: 100%;width:auto;padding:20px;" >
+								<table style="width:100%;">
+				    				<tr>
+				    					<td valign="middle" align="center">
+							   				<button id="butTancaTaula" type="button" class="btn btn-primary w-100 pvm" onclick="hidePopupTaula();" style="width:200px;">Cerrar</button>
+							   				&nbsp;&nbsp;&nbsp;<button id="butImprimir" type="button" class="btn btn-primary w-100 pvm" onclick="dcsMultiTrack('WT.imprimir', 'Imprimir%20tarja');window.print();" style="width:200px;">Imprimir</button>
+							   			</td>
+							   		</tr>
+							   	</table>
+							</div>
+						   	<div class="container" style="max-width: 100%;width:auto;" >
+								<table style="width:100%;">
+									<tr>
+										<td>
+											*Nota: Estos datos no se incorporarán a ningún fichero de datos de carácter personal sino que se limitan a indicar el local de participación en función del domicilio de su DNI/TIE y las letras de su apellido.	
+										</td>
+										<td align="right">
+											<b><i><span name="versioApp">v1.5</span></i></b>
+										</td>
+									</tr>
+								</table>
+							</div>
+			    		</td>
+			    	</tr>
+			    </table>
+			    </div>
+			    </td>
+			    </tr>
+			    </table>
+			</div>
+		</form>
+		<footer>
+			<table style="width:100%;">
+				<tr>
+					<td>
+						*Nota: Estos datos no se incorporarán a ningún fichero de datos de carácter personal sino que se limitan a indicar el local de participación en función del domicilio de su DNI/TIE y las letras de su apellido.	
+					</td>
+					<td align="right">
+						<b><i><span name="versioApp">v1.5</span></i></b>
+					</td>
+				</tr>
+			</table>				
+		</footer>
+	</div>	
+	<!-- !JavaScript -->
+	<script src="../js/jquery.js"></script>
+	<script src="../js/bootstrap.js"></script>
+	<script src="../js/oocss.min.js"></script>
+	<script src="../js/typeahead-0.10.5.js"></script>
+	<script src="../js/sha1.js"></script>	
+	<script src="../js/pbkdf2.js"></script>
+	<script src="../js/onVotar.js"></script>
+	<script src="../js/webtrends2.js" type="text/javascript"></script> 
+	<script type="text/javascript">
+		var _tag = new WebTrends();
+		_tag.dcsid="dcs222km11h659bw86srop7ny_9e4o";
+		_tag.dcsGetId();
+	</script> 
+	<script type="text/javascript">
+		_tag.DCSext.wt_departament="Governacio i Relacions Institucionals";
+		_tag.DCSext.wt_web1="Participa 2014";
+		_tag.DCSext.wt_web2="";
+		_tag.DCSext.wt_web3="";
+		_tag.WT.cg_n="";
+		_tag.WT.cg_s="";
+		_tag.DCSext.subcontent1="";
+		_tag.DCSext.subcontent2="";
+		_tag.DCSext.subcontent3="";
+		_tag.DCSext.subcontent4="";
+		_tag.dcsCollect();
+	</script>
+	<noscript>
+		<img alt="" name="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcs222km11h659bw86srop7ny_9e4o/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2"/>
+	</noscript>	
+		<script>
+	$(function(){
+
+		var isMobile = {
+		    Android: function() {
+		        return navigator.userAgent.match(/Android/i);
+		    },
+		    BlackBerry: function() {
+		        return navigator.userAgent.match(/BlackBerry/i);
+		    },
+		    iOS: function() {
+		        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+		    },
+		    Opera: function() {
+		        return navigator.userAgent.match(/Opera Mini/i);
+		    },
+		    Windows: function() {
+		        return navigator.userAgent.match(/IEMobile/i);
+		    }/*,
+		    Safari: function() {
+		        return navigator.userAgent.match(/Mobile Safari/i);
+		    }*/,
+		    Mobile: function() {
+		        return navigator.userAgent.match(/Mobile/i);
+		    }
+		 };
+		 
+		var aplicarEstil=false;
+		
+		 if (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows() || isMobile.Mobile())
+		 {
+			 aplicarEstil=true;
+		 }
+		 else
+		 {
+			 aplicarEstil=false;
+		 }
+
+		if(aplicarEstil){
+			var $ = document; // shortcut
+			var cssId = '../css/style-mobile.css';  // you could encode the css path itself to generate id..
+			if (!$.getElementById(cssId))
+			{
+			    var head  = $.getElementsByTagName('head')[0];
+			    var link  = $.createElement('link');
+			    link.id   = cssId;
+			    link.rel  = 'stylesheet';
+			    link.type = 'text/css';
+			    link.href = '../css/style-mobile.css';
+			    link.media = 'all';
+			    head.appendChild(link);
+			}
+		}
+	});
+	
+	
+	</script>	
+</body>
+</html>

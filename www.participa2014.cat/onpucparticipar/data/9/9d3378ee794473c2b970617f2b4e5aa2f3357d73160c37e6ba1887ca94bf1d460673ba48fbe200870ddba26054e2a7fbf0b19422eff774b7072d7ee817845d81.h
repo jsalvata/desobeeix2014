@@ -1,0 +1,11 @@
+Sant Sadurní d'Anoia|Institut Jacint Verdaguer|c. Gelida, s/n|0242S|SUSIN|ZZ||
+Sant Sadurní d'Anoia|Institut Jacint Verdaguer|c. Gelida, s/n|0234E|CIVILL|FARRENY||
+Sant Sadurní d'Anoia|Institut Jacint Verdaguer|c. Gelida, s/n|0238K|MASSANA|OJEDA||
+Sant Sadurní d'Anoia|Institut Jacint Verdaguer|c. Gelida, s/n|0237X|LACAMBRA|MASSANA||
+Sant Sadurní d'Anoia|Institut Jacint Verdaguer|c. Gelida, s/n|0240P|PUIGGROS|ROVIROSA||
+Sant Sadurní d'Anoia|Institut Jacint Verdaguer|c. Gelida, s/n|0241T|ROVIROSA|SUSIN||
+Sant Sadurní d'Anoia|Institut Jacint Verdaguer|c. Gelida, s/n|0233R|BLAZQUEZ|CIVILL||
+Sant Sadurní d'Anoia|Institut Jacint Verdaguer|c. Gelida, s/n|0236A|GILABERT|LACAMBRA||
+Sant Sadurní d'Anoia|Institut Jacint Verdaguer|c. Gelida, s/n|0239Q|OJEDA|PUIGGROS||
+Sant Sadurní d'Anoia|Institut Jacint Verdaguer|c. Gelida, s/n|0232U|A|BLAZQUEZ||
+Sant Sadurní d'Anoia|Institut Jacint Verdaguer|c. Gelida, s/n|0235D|FARRENY|GILABERT||

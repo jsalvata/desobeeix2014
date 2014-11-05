@@ -1,0 +1,12 @@
+Torelló|Cirviànum de Torelló|c. Ausiàs March-Molina A. correus 69|4664Z|SEBASTIA|TRAPE||
+Torelló|Cirviànum de Torelló|c. Ausiàs March-Molina A. correus 69|4663V|ROCHE|SEBASTIA||
+Torelló|Cirviànum de Torelló|c. Ausiàs March-Molina A. correus 69|4658S|FOLCH|GUEVARA||
+Torelló|Cirviànum de Torelló|c. Ausiàs March-Molina A. correus 69|4655Q|BAYOT|CASADO||
+Torelló|Cirviànum de Torelló|c. Ausiàs March-Molina A. correus 69|4657T|CRIACH|FOLCH||
+Torelló|Cirviànum de Torelló|c. Ausiàs March-Molina A. correus 69|4659J|GUEVARA|MARIMON||
+Torelló|Cirviànum de Torelló|c. Ausiàs March-Molina A. correus 69|4662F|PLANELLA|ROCHE||
+Torelló|Cirviànum de Torelló|c. Ausiàs March-Molina A. correus 69|4656P|CASADO|CRIACH||
+Torelló|Cirviànum de Torelló|c. Ausiàs March-Molina A. correus 69|4660H|MARIMON|MUNS||
+Torelló|Cirviànum de Torelló|c. Ausiàs March-Molina A. correus 69|4661G|MUNS|PLANELLA||
+Torelló|Cirviànum de Torelló|c. Ausiàs March-Molina A. correus 69|4654K|A|BAYOT||
+Torelló|Cirviànum de Torelló|c. Ausiàs March-Molina A. correus 69|4665W|TRAPE|ZZ||

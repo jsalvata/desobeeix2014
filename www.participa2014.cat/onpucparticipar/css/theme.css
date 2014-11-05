@@ -1,0 +1,48 @@
+/* SOOCSS Library - v0.2.20140331222352 */
+/*!
+ * Collection of theme modifications for SOOCSS HTML objects library
+ * Bootstrap version v3.1.0 (http://getbootstrap.com)
+ * Font Awesome 4.0.3 by @davegandy - http://fontawesome.io - @fontawesome
+ */
+@font-face {
+  font-family: 'OpenSansRegular';
+  src: url('../assets/fonts/OpenSans-Regular-webfont.eot');
+  src: local('☺'), url('../assets/fonts/OpenSans-Regular-webfont.woff') format('woff'), url('../assets/fonts/OpenSans-Regular-webfont.ttf') format('truetype'), url('../assets/fonts/OpenSans-Regular-webfont.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.nav-side {
+  background: #1f1f1f;
+}
+.nav-side .nav-side-header {
+  background: #161616;
+  height: 50px;
+}
+.nav-side ul > li ul {
+  background: 2b 2b 2b;
+}
+.nav-side ul > li ul li a:hover {
+  background: #302f2f;
+}
+.nav-side ul > li > div {
+  border-bottom: 1px solid #000000;
+}
+.nav-side ul > li > div a:hover {
+  background: #302f2f;
+}
+.nav-side ul > li > div > i {
+  color: #cccccc;
+}
+.nav-side ul > li > div > i:hover {
+  background: #302f2f;
+  color: #ffffff;
+  cursor: pointer;
+}
+.nav-side a {
+  color: #cccccc;
+  text-decoration: none;
+}
+.nav-side a:hover {
+  color: #ffffff;
+}
+/*# sourceMappingURL=theme.css.map */

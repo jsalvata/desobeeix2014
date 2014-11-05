@@ -1,0 +1,19 @@
+wget -r -k -Dparticipa2014.cat,www.participa2014.cat http://www.participa2014.cat/
+
+D=www.participa2014.cat/onpucparticipar/data
+
+wget http://www.participa2014.cat/onpucparticipar/data/municipisUnLocal.dat
+wget http://www.participa2014.cat/onpucparticipar/data/municipis.dat
+dos2unix *.dat
+cut -d'"' -f4 municipis.dat|sort > codis-municipi.lst
+grep -v -F -f municipisUnLocal.dat codis-municipi.lst > codis-municipis-varios-locals.lst
+cat codis-municipis-varios-locals.lst | xargs -d"\n" -IXX -n1 echo "http://www.participa2014.cat/onpucparticipar/data/vies/XX.dat" > urls-vies.lst
+wget -x -i urls-vies.lst
+dos2unix $D/vies/*.dat
+cut -d'"' -f4 $D/vies/*.dat|xargs -d"\n" -IXX -n1 echo "http://www.participa2014.cat/onpucparticipar/data/trams/XX.dat" > urls-trams.lst
+wget -x -i urls-trams.lst
+dos2unix $D/trams/*.dat
+find $D/trams -name "*.dat" -print0|xargs -0 perl generar-urls-taules.pl > urls-taules.lst
+perl generar-urls-taules.pl $D/municipisUnLocal.dat >> urls-taules.lst
+wget -x -i urls-taules.lst
+

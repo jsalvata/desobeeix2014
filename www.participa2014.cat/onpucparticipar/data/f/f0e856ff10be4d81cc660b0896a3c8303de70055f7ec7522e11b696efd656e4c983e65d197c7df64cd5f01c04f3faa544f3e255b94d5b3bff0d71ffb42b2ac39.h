@@ -1,0 +1,14 @@
+Barcelona|IPSI|c. Comte Borrell, 243-249|2019Z|GARCIA BAQUERO|HERNANGOMEZ||
+Barcelona|IPSI|c. Comte Borrell, 243-249|2015H|BAENAS|CAMBRAS||
+Barcelona|IPSI|c. Comte Borrell, 243-249|2020W|HERNANGOMEZ|LOPEZ AMOR||
+Barcelona|IPSI|c. Comte Borrell, 243-249|2016G|CAMBRAS|CORONELL||
+Barcelona|IPSI|c. Comte Borrell, 243-249|2022B|MENDIA|NUNEZ CACHO||
+Barcelona|IPSI|c. Comte Borrell, 243-249|2025M|RODRIGUEZ ARIAS|SECANELL||
+Barcelona|IPSI|c. Comte Borrell, 243-249|2017F|CORONELL|FAROOQ||
+Barcelona|IPSI|c. Comte Borrell, 243-249|2024Y|PLANCHERIA|RODRIGUEZ ARIAS||
+Barcelona|IPSI|c. Comte Borrell, 243-249|2023C|NUNEZ CACHO|PLANCHERIA||
+Barcelona|IPSI|c. Comte Borrell, 243-249|2021N|LOPEZ AMOR|MENDIA||
+Barcelona|IPSI|c. Comte Borrell, 243-249|2026U|SECANELL|VALLTONDRE||
+Barcelona|IPSI|c. Comte Borrell, 243-249|2018V|FAROOQ|GARCIA BAQUERO||
+Barcelona|IPSI|c. Comte Borrell, 243-249|2027R|VALLTONDRE|ZZ||
+Barcelona|IPSI|c. Comte Borrell, 243-249|2014J|A|BAENAS||

@@ -1,0 +1,12 @@
+Sant Carles de la Ràpita|Els Alfacs|c. Dr. Torné, s/n|4477G|PERICHE|REY||
+Sant Carles de la Ràpita|Els Alfacs|c. Dr. Torné, s/n|4475J|LOR|MONFORTE||
+Sant Carles de la Ràpita|Els Alfacs|c. Dr. Torné, s/n|4471Q|CARDEDEU|DOMINGO||
+Sant Carles de la Ràpita|Els Alfacs|c. Dr. Torné, s/n|4470K|BATISTE|CARDEDEU||
+Sant Carles de la Ràpita|Els Alfacs|c. Dr. Torné, s/n|4476H|MONFORTE|PERICHE||
+Sant Carles de la Ràpita|Els Alfacs|c. Dr. Torné, s/n|4473T|FORES|GOMIS||
+Sant Carles de la Ràpita|Els Alfacs|c. Dr. Torné, s/n|4469X|A|BATISTE||
+Sant Carles de la Ràpita|Els Alfacs|c. Dr. Torné, s/n|4472P|DOMINGO|FORES||
+Sant Carles de la Ràpita|Els Alfacs|c. Dr. Torné, s/n|4474S|GOMIS|LOR||
+Sant Carles de la Ràpita|Els Alfacs|c. Dr. Torné, s/n|4479V|SANDOVAL|VALLS||
+Sant Carles de la Ràpita|Els Alfacs|c. Dr. Torné, s/n|4480Z|VALLS|ZZ||
+Sant Carles de la Ràpita|Els Alfacs|c. Dr. Torné, s/n|4478F|REY|SANDOVAL||

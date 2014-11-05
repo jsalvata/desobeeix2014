@@ -1,0 +1,79 @@
+header nav a.logo{ height:2.8em!important}
+header .column ul.external_links li a, header .column ul.external_links li a:hover{ background:none; width:auto; font-size:1em}
+header .column ul.external_links li a:hover{ color:#fff}
+header ul.idioma{ float:right; margin-top:0.5em }
+header ul.external_links{ float:right; margin-top:0.5em }
+header ul.external_links li{ border-left:1px solid #717171}
+header ul.external_links li:first-child{ border:none;}
+.mvlogo{ width:10em; height:2.2em; margin-top:0.5em}
+
+.llistat_012 .list-group-item{ border:0 }
+
+/*
+.border_celeste{ border-color:#0099AC}
+.border_vermell{ border-color:#E36C44}
+.border_groc{ border-color:#EDB645}
+.celeste{ background-color:#0099AC!important}
+.vermell{ background-color:#E36C44!important}
+.groc{ background-color:#EEB737!important}
+.verd{ background-color:#37948B!important}
+*/
+.border_taronja{ border-color:#FF8000}
+
+.noticia_detalls_cont span{ border:0; margin-left:0; padding-left:0}
+.destacat_imatge2_cont h3 {
+    font-family: 'OpenSansRegular',Helvetica,Arial,sans-serif;
+}
+	.destacat_imatge2_cont h3, .destacat_imatge2_cont h2{font-size: 0.8em;}
+.capcelera_basica h1.centrat{ text-align:center;   font-size: 1em; color:#999}
+.capcelera_basica_cont .pos_relative{ text-align:center}
+
+.basic_text_descarregar.home{  margin:0!important; margin-top:2em!important; clear:both;}
+.basic_text_descarregar.home a{  margin-top:1em}
+
+.menu{ height:1em!important}
+.navbar-collapse .column .menu_tancar{ top:0; margin-top:-10px}
+
+.llistat_collapse ul { list-style:disc;}
+.llistat_collapse ul ul, .panel-body ol ul { list-style:circle;}
+.row ol ul li a, .row ul ul li a, #dret-votar .col-sm-8 ul li a, #dret-votar .col-sm-8 ol li a{ color:#c00000}
+
+.onvotar { margin-top:1em; width:100%}
+.onvotar caption{ text-align:left;  padding-bottom:1em}
+
+div.table {overflow:auto}
+
+form.cerca_onvotar{
+	position:relative;}
+
+.cerca_onvotar .btn{
+    background: url("../img/NG_ico_lupa.png") no-repeat scroll center center #bd0000;
+    border-color: #bd0000;
+    border-radius: 0;
+    height: 32px;
+	margin-top:39px
+}
+
+.basic_text_descarregar .small{ font-size:0.675em} 
+
+@media (min-width: 750px) {.capcelera_basica h1.centrat{ font-size: 1.25em; }
+}
+
+@media (min-width: 1024px) {.destacat_imatge2_cont div{ background:none; top:45%}
+}
+
+@media (min-width: 1200px) {
+.destacat_imatge2_cont h3, .destacat_imatge2_cont h2{font-size: 0.938em;}
+}
+.caixa_imatge h4 {
+font-size: 0.9em;
+}
+.basic_text_descarregar a {
+display: inline-block;
+}
+ol.alpha li {
+list-style-type: lower-alpha;
+}
+.petita {
+font-size: 0.8em;
+}
