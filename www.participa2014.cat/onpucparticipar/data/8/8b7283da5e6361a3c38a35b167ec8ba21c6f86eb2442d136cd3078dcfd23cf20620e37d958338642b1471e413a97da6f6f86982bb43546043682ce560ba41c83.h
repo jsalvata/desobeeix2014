@@ -1,0 +1,15 @@
+Lleida|Institut Màrius Torres|c. Narcís Monturiol, 2|5079W|CHANCHO|DUASO||
+Lleida|Institut Màrius Torres|c. Narcís Monturiol, 2|5084M|MARQUILLES|MONCLUS||
+Lleida|Institut Màrius Torres|c. Narcís Monturiol, 2|5077V|BALANA|CABALLOL||
+Lleida|Institut Màrius Torres|c. Narcís Monturiol, 2|5078Z|CABALLOL|CHANCHO||
+Lleida|Institut Màrius Torres|c. Narcís Monturiol, 2|5086R|ORUS|PONTI||
+Lleida|Institut Màrius Torres|c. Narcís Monturiol, 2|5088D|ROFES|SARABIA||
+Lleida|Institut Màrius Torres|c. Narcís Monturiol, 2|5089A|SARABIA|TORREZ||
+Lleida|Institut Màrius Torres|c. Narcís Monturiol, 2|5083Y|JOVELLAR|MARQUILLES||
+Lleida|Institut Màrius Torres|c. Narcís Monturiol, 2|5085U|MONCLUS|ORUS||
+Lleida|Institut Màrius Torres|c. Narcís Monturiol, 2|5081B|FRADE|GONI||
+Lleida|Institut Màrius Torres|c. Narcís Monturiol, 2|5082C|GONI|JOVELLAR||
+Lleida|Institut Màrius Torres|c. Narcís Monturiol, 2|5080N|DUASO|FRADE||
+Lleida|Institut Màrius Torres|c. Narcís Monturiol, 2|5090X|TORREZ|ZZ||
+Lleida|Institut Màrius Torres|c. Narcís Monturiol, 2|5076F|A|BALANA||
+Lleida|Institut Màrius Torres|c. Narcís Monturiol, 2|5087E|PONTI|ROFES||

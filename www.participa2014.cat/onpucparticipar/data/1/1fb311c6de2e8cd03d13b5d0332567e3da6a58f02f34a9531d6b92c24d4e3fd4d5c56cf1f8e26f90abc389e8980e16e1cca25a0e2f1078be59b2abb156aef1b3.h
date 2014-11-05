@@ -1,0 +1,11 @@
+Balaguer|Ciutat de Balaguer|c. Urgell, 94|4507C|MELERO|PASCUAL||
+Balaguer|Ciutat de Balaguer|c. Urgell, 94|4502V|BERGEL|CARRICONDO||
+Balaguer|Ciutat de Balaguer|c. Urgell, 94|4508Y|PASCUAL|REIG||
+Balaguer|Ciutat de Balaguer|c. Urgell, 94|4510U|SANCHO|TORRUELLA||
+Balaguer|Ciutat de Balaguer|c. Urgell, 94|4506B|JOUNOU|MELERO||
+Balaguer|Ciutat de Balaguer|c. Urgell, 94|4511R|TORRUELLA|ZZ||
+Balaguer|Ciutat de Balaguer|c. Urgell, 94|4505N|GARDEL|JOUNOU||
+Balaguer|Ciutat de Balaguer|c. Urgell, 94|4504W|DURANY|GARDEL||
+Balaguer|Ciutat de Balaguer|c. Urgell, 94|4509M|REIG|SANCHO||
+Balaguer|Ciutat de Balaguer|c. Urgell, 94|4503Z|CARRICONDO|DURANY||
+Balaguer|Ciutat de Balaguer|c. Urgell, 94|4501F|A|BERGEL||

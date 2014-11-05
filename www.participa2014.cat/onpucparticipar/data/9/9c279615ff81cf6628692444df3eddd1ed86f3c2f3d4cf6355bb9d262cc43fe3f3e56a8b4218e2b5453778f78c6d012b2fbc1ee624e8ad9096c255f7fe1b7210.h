@@ -1,0 +1,15 @@
+Manresa|Institut Lacetània|av. Bases de Manresa, 51-59|0502W|LARIOS|MARTINEZ||
+Manresa|Institut Lacetània|av. Bases de Manresa, 51-59|0498G|COMASOLIVAS|ESTEVEZ||
+Manresa|Institut Lacetània|av. Bases de Manresa, 51-59|0505C|PAULE|PUIGCERCOS||
+Manresa|Institut Lacetània|av. Bases de Manresa, 51-59|0497H|CANTO|COMASOLIVAS||
+Manresa|Institut Lacetània|av. Bases de Manresa, 51-59|0507M|ROMANOS|SANZ||
+Manresa|Institut Lacetània|av. Bases de Manresa, 51-59|0508U|SANZ|TORRE||
+Manresa|Institut Lacetània|av. Bases de Manresa, 51-59|0495S|A|BARRIS||
+Manresa|Institut Lacetània|av. Bases de Manresa, 51-59|0504B|MORAN|PAULE||
+Manresa|Institut Lacetània|av. Bases de Manresa, 51-59|0500V|GARCIA|GRAELL||
+Manresa|Institut Lacetània|av. Bases de Manresa, 51-59|0501Z|GRAELL|LARIOS||
+Manresa|Institut Lacetània|av. Bases de Manresa, 51-59|0496J|BARRIS|CANTO||
+Manresa|Institut Lacetània|av. Bases de Manresa, 51-59|0506Y|PUIGCERCOS|ROMANOS||
+Manresa|Institut Lacetània|av. Bases de Manresa, 51-59|0499F|ESTEVEZ|GARCIA||
+Manresa|Institut Lacetània|av. Bases de Manresa, 51-59|0509R|TORRE|ZZ||
+Manresa|Institut Lacetània|av. Bases de Manresa, 51-59|0503N|MARTINEZ|MORAN||

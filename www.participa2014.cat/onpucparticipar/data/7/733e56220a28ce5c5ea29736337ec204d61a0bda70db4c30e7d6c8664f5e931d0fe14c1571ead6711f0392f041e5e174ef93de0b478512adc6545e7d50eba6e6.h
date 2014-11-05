@@ -1,0 +1,14 @@
+Vilafranca del Penedès|Institut Eugeni d'Ors|av. Tarragona, s/n|0269F|SANTAMARIA|TUYA||
+Vilafranca del Penedès|Institut Eugeni d'Ors|av. Tarragona, s/n|0258D|BATLLORI|CARDO||
+Vilafranca del Penedès|Institut Eugeni d'Ors|av. Tarragona, s/n|0270V|TUYA|ZZ||
+Vilafranca del Penedès|Institut Eugeni d'Ors|av. Tarragona, s/n|0265S|MILLA|OLIVER||
+Vilafranca del Penedès|Institut Eugeni d'Ors|av. Tarragona, s/n|0267H|PONS|ROIG||
+Vilafranca del Penedès|Institut Eugeni d'Ors|av. Tarragona, s/n|0263P|HUERTAS|MARCE||
+Vilafranca del Penedès|Institut Eugeni d'Ors|av. Tarragona, s/n|0264T|MARCE|MILLA||
+Vilafranca del Penedès|Institut Eugeni d'Ors|av. Tarragona, s/n|0262Q|GENE|HUERTAS||
+Vilafranca del Penedès|Institut Eugeni d'Ors|av. Tarragona, s/n|0261K|FERRAN|GENE||
+Vilafranca del Penedès|Institut Eugeni d'Ors|av. Tarragona, s/n|0268G|ROIG|SANTAMARIA||
+Vilafranca del Penedès|Institut Eugeni d'Ors|av. Tarragona, s/n|0266J|OLIVER|PONS||
+Vilafranca del Penedès|Institut Eugeni d'Ors|av. Tarragona, s/n|0260X|CUSACHS|FERRAN||
+Vilafranca del Penedès|Institut Eugeni d'Ors|av. Tarragona, s/n|0259A|CARDO|CUSACHS||
+Vilafranca del Penedès|Institut Eugeni d'Ors|av. Tarragona, s/n|0257E|A|BATLLORI||

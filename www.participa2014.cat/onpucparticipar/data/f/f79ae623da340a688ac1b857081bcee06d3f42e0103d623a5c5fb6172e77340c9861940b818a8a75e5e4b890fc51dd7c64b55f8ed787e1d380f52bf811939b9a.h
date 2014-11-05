@@ -1,0 +1,11 @@
+Blanes|Sa Palomera|c. Vilar Petit, s/n|5131U|CHAMORRO|ESTRELLA||
+Blanes|Sa Palomera|c. Vilar Petit, s/n|5137K|PUIGDERRAJOLS|RULL||
+Blanes|Sa Palomera|c. Vilar Petit, s/n|5132R|ESTRELLA|GERENA||
+Blanes|Sa Palomera|c. Vilar Petit, s/n|5135A|MARTINS|NUNO||
+Blanes|Sa Palomera|c. Vilar Petit, s/n|5138Q|RULL|TARRIDAS||
+Blanes|Sa Palomera|c. Vilar Petit, s/n|5139P|TARRIDAS|ZZ||
+Blanes|Sa Palomera|c. Vilar Petit, s/n|5133E|GERENA|JUANOLA||
+Blanes|Sa Palomera|c. Vilar Petit, s/n|5130M|BLANES|CHAMORRO||
+Blanes|Sa Palomera|c. Vilar Petit, s/n|5134D|JUANOLA|MARTINS||
+Blanes|Sa Palomera|c. Vilar Petit, s/n|5136X|NUNO|PUIGDERRAJOLS||
+Blanes|Sa Palomera|c. Vilar Petit, s/n|5129Y|A|BLANES||

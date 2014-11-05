@@ -1,0 +1,10 @@
+Lleida|Institut Torrevicens|av. Torre Vicens, 3|5071T|LOPEZALBERCA|MORA||
+Lleida|Institut Torrevicens|av. Torre Vicens, 3|5070P|GONZALO|LOPEZALBERCA||
+Lleida|Institut Torrevicens|av. Torre Vicens, 3|5073J|PERIANES|ROMEU||
+Lleida|Institut Torrevicens|av. Torre Vicens, 3|5069Q|FARRENY|GONZALO||
+Lleida|Institut Torrevicens|av. Torre Vicens, 3|5068K|CHAMORRO|FARRENY||
+Lleida|Institut Torrevicens|av. Torre Vicens, 3|5066A|A|BERROCAL||
+Lleida|Institut Torrevicens|av. Torre Vicens, 3|5075G|SUERO|ZZ||
+Lleida|Institut Torrevicens|av. Torre Vicens, 3|5074H|ROMEU|SUERO||
+Lleida|Institut Torrevicens|av. Torre Vicens, 3|5067X|BERROCAL|CHAMORRO||
+Lleida|Institut Torrevicens|av. Torre Vicens, 3|5072S|MORA|PERIANES||

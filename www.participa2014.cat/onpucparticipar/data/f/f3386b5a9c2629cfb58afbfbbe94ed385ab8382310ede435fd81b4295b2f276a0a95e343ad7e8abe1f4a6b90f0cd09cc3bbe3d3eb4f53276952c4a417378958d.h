@@ -1,0 +1,9 @@
+Figueres|Institut Ramon Muntaner|c. Sant Pau, s/n|0104S|COUTURIER|FRUTOS||
+Figueres|Institut Ramon Muntaner|c. Sant Pau, s/n|0108F|PARRAGA|ROCA||
+Figueres|Institut Ramon Muntaner|c. Sant Pau, s/n|0109V|ROCA|SINOL||
+Figueres|Institut Ramon Muntaner|c. Sant Pau, s/n|0110Z|SINOL|ZZ||
+Figueres|Institut Ramon Muntaner|c. Sant Pau, s/n|0105J|FRUTOS|HERNANDO||
+Figueres|Institut Ramon Muntaner|c. Sant Pau, s/n|0102P|A|BRUNET||
+Figueres|Institut Ramon Muntaner|c. Sant Pau, s/n|0106H|HERNANDO|MARTINO||
+Figueres|Institut Ramon Muntaner|c. Sant Pau, s/n|0103T|BRUNET|COUTURIER||
+Figueres|Institut Ramon Muntaner|c. Sant Pau, s/n|0107G|MARTINO|PARRAGA||

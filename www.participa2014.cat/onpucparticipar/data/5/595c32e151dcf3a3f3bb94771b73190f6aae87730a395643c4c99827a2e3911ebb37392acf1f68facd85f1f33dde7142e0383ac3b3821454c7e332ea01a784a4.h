@@ -1,0 +1,14 @@
+Vendrell, el|Institut Andreu Nin|av. Salvador Palau Rabassó, 18|1753D|OBRADO|PLANA||
+Vendrell, el|Institut Andreu Nin|av. Salvador Palau Rabassó, 18|1752E|MILA|OBRADO||
+Vendrell, el|Institut Andreu Nin|av. Salvador Palau Rabassó, 18|1747C|DIEGUEZ|FUERTES||
+Vendrell, el|Institut Andreu Nin|av. Salvador Palau Rabassó, 18|1745N|BAUZA|CARRETERO||
+Vendrell, el|Institut Andreu Nin|av. Salvador Palau Rabassó, 18|1757Q|VALERA|ZZ||
+Vendrell, el|Institut Andreu Nin|av. Salvador Palau Rabassó, 18|1756K|SANCHIS|VALERA||
+Vendrell, el|Institut Andreu Nin|av. Salvador Palau Rabassó, 18|1751R|MARCHAN|MILA||
+Vendrell, el|Institut Andreu Nin|av. Salvador Palau Rabassó, 18|1748Y|FUERTES|GOMIS||
+Vendrell, el|Institut Andreu Nin|av. Salvador Palau Rabassó, 18|1744W|A|BAUZA||
+Vendrell, el|Institut Andreu Nin|av. Salvador Palau Rabassó, 18|1754A|PLANA|ROGER||
+Vendrell, el|Institut Andreu Nin|av. Salvador Palau Rabassó, 18|1750U|JANSA|MARCHAN||
+Vendrell, el|Institut Andreu Nin|av. Salvador Palau Rabassó, 18|1749M|GOMIS|JANSA||
+Vendrell, el|Institut Andreu Nin|av. Salvador Palau Rabassó, 18|1746B|CARRETERO|DIEGUEZ||
+Vendrell, el|Institut Andreu Nin|av. Salvador Palau Rabassó, 18|1755X|ROGER|SANCHIS||

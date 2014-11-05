@@ -1,0 +1,14 @@
+Lleida|Institut Ronda|c. Henri Dunant, 3|5062U|TRIVINO|ZZ||
+Lleida|Institut Ronda|c. Henri Dunant, 3|5060Y|ROFES|SEGOVIA||
+Lleida|Institut Ronda|c. Henri Dunant, 3|5058B|OLIVEIRA|PLANA||
+Lleida|Institut Ronda|c. Henri Dunant, 3|5054V|GARCIAMASCARAQUE|HERNANDO||
+Lleida|Institut Ronda|c. Henri Dunant, 3|5059C|PLANA|ROFES||
+Lleida|Institut Ronda|c. Henri Dunant, 3|5051H|CALSINA|COLOMA||
+Lleida|Institut Ronda|c. Henri Dunant, 3|5056W|LOPEZALBERCA|MILA||
+Lleida|Institut Ronda|c. Henri Dunant, 3|5049S|A|BALLESTERO||
+Lleida|Institut Ronda|c. Henri Dunant, 3|5050J|BALLESTERO|CALSINA||
+Lleida|Institut Ronda|c. Henri Dunant, 3|5061M|SEGOVIA|TRIVINO||
+Lleida|Institut Ronda|c. Henri Dunant, 3|5057N|MILA|OLIVEIRA||
+Lleida|Institut Ronda|c. Henri Dunant, 3|5052G|COLOMA|ESTEVEZ||
+Lleida|Institut Ronda|c. Henri Dunant, 3|5055Z|HERNANDO|LOPEZALBERCA||
+Lleida|Institut Ronda|c. Henri Dunant, 3|5053F|ESTEVEZ|GARCIAMASCARAQUE||

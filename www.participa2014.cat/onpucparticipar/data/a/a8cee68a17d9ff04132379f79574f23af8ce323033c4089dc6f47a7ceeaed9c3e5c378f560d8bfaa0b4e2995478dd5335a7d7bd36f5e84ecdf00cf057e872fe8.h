@@ -1,0 +1,14 @@
+Palafrugell|Institut Frederic Martí i Carreras|c. Frederic Martí Carreras, 13|0923R|ORTELLS|PORRAS||
+Palafrugell|Institut Frederic Martí i Carreras|c. Frederic Martí Carreras, 13|0916W|CAPDEVILA|CRIBANO||
+Palafrugell|Institut Frederic Martí i Carreras|c. Frederic Martí Carreras, 13|0924E|PORRAS|ROFES||
+Palafrugell|Institut Frederic Martí i Carreras|c. Frederic Martí Carreras, 13|0920Y|HUGUET|MADAD||
+Palafrugell|Institut Frederic Martí i Carreras|c. Frederic Martí Carreras, 13|0926A|SANCHIS|VALENCIA||
+Palafrugell|Institut Frederic Martí i Carreras|c. Frederic Martí Carreras, 13|0914V|A|BARRULL||
+Palafrugell|Institut Frederic Martí i Carreras|c. Frederic Martí Carreras, 13|0915Z|BARRULL|CAPDEVILA||
+Palafrugell|Institut Frederic Martí i Carreras|c. Frederic Martí Carreras, 13|0922U|MIR|ORTELLS||
+Palafrugell|Institut Frederic Martí i Carreras|c. Frederic Martí Carreras, 13|0919C|GARGALLO|HUGUET||
+Palafrugell|Institut Frederic Martí i Carreras|c. Frederic Martí Carreras, 13|0918B|FERNANDEZ|GARGALLO||
+Palafrugell|Institut Frederic Martí i Carreras|c. Frederic Martí Carreras, 13|0921M|MADAD|MIR||
+Palafrugell|Institut Frederic Martí i Carreras|c. Frederic Martí Carreras, 13|0927X|VALENCIA|ZZ||
+Palafrugell|Institut Frederic Martí i Carreras|c. Frederic Martí Carreras, 13|0917N|CRIBANO|FERNANDEZ||
+Palafrugell|Institut Frederic Martí i Carreras|c. Frederic Martí Carreras, 13|0925D|ROFES|SANCHIS||

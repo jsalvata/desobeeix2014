@@ -1,0 +1,11 @@
+Igualada|Institut Pere Vives i Vich|av. Emili Vallès, 17|0373D|CHIGUER|FARRERA||
+Igualada|Institut Pere Vives i Vich|av. Emili Vallès, 17|0374A|FARRERA|GIMENO||
+Igualada|Institut Pere Vives i Vich|av. Emili Vallès, 17|0376K|JULIAN|MARTINS||
+Igualada|Institut Pere Vives i Vich|av. Emili Vallès, 17|0380S|RUS|TOLOSA||
+Igualada|Institut Pere Vives i Vich|av. Emili Vallès, 17|0375X|GIMENO|JULIAN||
+Igualada|Institut Pere Vives i Vich|av. Emili Vallès, 17|0381J|TOLOSA|ZZ||
+Igualada|Institut Pere Vives i Vich|av. Emili Vallès, 17|0378P|OCASAR|PUIGGROS||
+Igualada|Institut Pere Vives i Vich|av. Emili Vallès, 17|0371R|A|BLANES||
+Igualada|Institut Pere Vives i Vich|av. Emili Vallès, 17|0379T|PUIGGROS|RUS||
+Igualada|Institut Pere Vives i Vich|av. Emili Vallès, 17|0372E|BLANES|CHIGUER||
+Igualada|Institut Pere Vives i Vich|av. Emili Vallès, 17|0377Q|MARTINS|OCASAR||

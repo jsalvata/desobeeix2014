@@ -1,0 +1,9 @@
+Masnou, el|Mediterrània|c. Rosa Sensat, s/n|4153J|BROTONS|CURADO||
+Masnou, el|Mediterrània|c. Rosa Sensat, s/n|4156F|IGNACIO|MARTINO||
+Masnou, el|Mediterrània|c. Rosa Sensat, s/n|4155G|GARCIA|IGNACIO||
+Masnou, el|Mediterrània|c. Rosa Sensat, s/n|4159W|RIVERO|SERRAS||
+Masnou, el|Mediterrània|c. Rosa Sensat, s/n|4152S|A|BROTONS||
+Masnou, el|Mediterrània|c. Rosa Sensat, s/n|4160N|SERRAS|ZZ||
+Masnou, el|Mediterrània|c. Rosa Sensat, s/n|4157V|MARTINO|PADIAL||
+Masnou, el|Mediterrània|c. Rosa Sensat, s/n|4158Z|PADIAL|RIVERO||
+Masnou, el|Mediterrània|c. Rosa Sensat, s/n|4154H|CURADO|GARCIA||

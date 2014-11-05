@@ -1,0 +1,10 @@
+Vilanova i la Geltrú|Institut Baix a mar|c. Àncora, 29|3802X|LOZAR|MOLINE||
+Vilanova i la Geltrú|Institut Baix a mar|c. Àncora, 29|3799E|CORTINAS|FUENTE||
+Vilanova i la Geltrú|Institut Baix a mar|c. Àncora, 29|3801A|GUEVARA|LOZAR||
+Vilanova i la Geltrú|Institut Baix a mar|c. Àncora, 29|3800D|FUENTE|GUEVARA||
+Vilanova i la Geltrú|Institut Baix a mar|c. Àncora, 29|3804Q|PELEGRIN|ROIG||
+Vilanova i la Geltrú|Institut Baix a mar|c. Àncora, 29|3806T|SOLANA|ZZ||
+Vilanova i la Geltrú|Institut Baix a mar|c. Àncora, 29|3805P|ROIG|SOLANA||
+Vilanova i la Geltrú|Institut Baix a mar|c. Àncora, 29|3797U|A|BLANES||
+Vilanova i la Geltrú|Institut Baix a mar|c. Àncora, 29|3803K|MOLINE|PELEGRIN||
+Vilanova i la Geltrú|Institut Baix a mar|c. Àncora, 29|3798R|BLANES|CORTINAS||

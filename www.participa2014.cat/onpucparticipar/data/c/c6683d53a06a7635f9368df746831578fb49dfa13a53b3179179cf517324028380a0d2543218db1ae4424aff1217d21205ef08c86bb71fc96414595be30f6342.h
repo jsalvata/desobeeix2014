@@ -1,0 +1,12 @@
+Girona|Institut Santa Eugènia|c. Enric Marquès i Ribalta, 3|3976N|CASAGRAN|DELLONDER||
+Girona|Institut Santa Eugènia|c. Enric Marquès i Ribalta, 3|3979Y|GURNES|LORA||
+Girona|Institut Santa Eugènia|c. Enric Marquès i Ribalta, 3|3977B|DELLONDER|FROU||
+Girona|Institut Santa Eugènia|c. Enric Marquès i Ribalta, 3|3981U|MOLINAS|PASTEN||
+Girona|Institut Santa Eugènia|c. Enric Marquès i Ribalta, 3|3975W|BENITO|CASAGRAN||
+Girona|Institut Santa Eugènia|c. Enric Marquès i Ribalta, 3|3974Z|A|BENITO||
+Girona|Institut Santa Eugènia|c. Enric Marquès i Ribalta, 3|3980M|LORA|MOLINAS||
+Girona|Institut Santa Eugènia|c. Enric Marquès i Ribalta, 3|3978C|FROU|GURNES||
+Girona|Institut Santa Eugènia|c. Enric Marquès i Ribalta, 3|3982R|PASTEN|RECASENS||
+Girona|Institut Santa Eugènia|c. Enric Marquès i Ribalta, 3|3983E|RECASENS|SALAH||
+Girona|Institut Santa Eugènia|c. Enric Marquès i Ribalta, 3|3984D|SALAH|TORMO||
+Girona|Institut Santa Eugènia|c. Enric Marquès i Ribalta, 3|3985A|TORMO|ZZ||

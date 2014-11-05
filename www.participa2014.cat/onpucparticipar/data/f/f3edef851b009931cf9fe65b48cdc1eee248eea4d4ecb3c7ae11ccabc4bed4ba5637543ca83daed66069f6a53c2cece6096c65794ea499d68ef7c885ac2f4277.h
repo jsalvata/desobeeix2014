@@ -1,0 +1,9 @@
+Roses|Institut Cap Norfeu|c. Ponent, s/n|0150S|A|BRUNET||
+Roses|Institut Cap Norfeu|c. Ponent, s/n|0158N|SINOL|ZZ||
+Roses|Institut Cap Norfeu|c. Ponent, s/n|0155V|MARTINO|PARRAGA||
+Roses|Institut Cap Norfeu|c. Ponent, s/n|0151J|BRUNET|COUTURIER||
+Roses|Institut Cap Norfeu|c. Ponent, s/n|0157W|ROCA|SINOL||
+Roses|Institut Cap Norfeu|c. Ponent, s/n|0156Z|PARRAGA|ROCA||
+Roses|Institut Cap Norfeu|c. Ponent, s/n|0154F|HERNANDO|MARTINO||
+Roses|Institut Cap Norfeu|c. Ponent, s/n|0153G|FRUTOS|HERNANDO||
+Roses|Institut Cap Norfeu|c. Ponent, s/n|0152H|COUTURIER|FRUTOS||

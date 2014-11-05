@@ -1,0 +1,12 @@
+Igualada|Institut Joan Mercader|c. Sant Vicenç, 27|0349E|BERNALDEZ|CASTELLTORT||
+Igualada|Institut Joan Mercader|c. Sant Vicenç, 27|0356T|OTERO|QUINTANA||
+Igualada|Institut Joan Mercader|c. Sant Vicenç, 27|0350D|CASTELLTORT|ELIAS||
+Igualada|Institut Joan Mercader|c. Sant Vicenç, 27|0355P|MILAN|OTERO||
+Igualada|Institut Joan Mercader|c. Sant Vicenç, 27|0352X|GARCIA|GUIMERA||
+Igualada|Institut Joan Mercader|c. Sant Vicenç, 27|0358J|RUS|TARDIO||
+Igualada|Institut Joan Mercader|c. Sant Vicenç, 27|0353K|GUIMERA|LORA||
+Igualada|Institut Joan Mercader|c. Sant Vicenç, 27|0348R|A|BERNALDEZ||
+Igualada|Institut Joan Mercader|c. Sant Vicenç, 27|0357S|QUINTANA|RUS||
+Igualada|Institut Joan Mercader|c. Sant Vicenç, 27|0359H|TARDIO|ZZ||
+Igualada|Institut Joan Mercader|c. Sant Vicenç, 27|0354Q|LORA|MILAN||
+Igualada|Institut Joan Mercader|c. Sant Vicenç, 27|0351A|ELIAS|GARCIA||

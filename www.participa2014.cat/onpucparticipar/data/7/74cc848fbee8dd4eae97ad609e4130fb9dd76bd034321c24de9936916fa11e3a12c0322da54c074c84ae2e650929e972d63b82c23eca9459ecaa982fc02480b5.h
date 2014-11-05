@@ -1,0 +1,12 @@
+Vic|Institut de Vic|av. Sant Bernat Calbó, 8|4667B|BAYOT|CASADO||
+Vic|Institut de Vic|av. Sant Bernat Calbó, 8|4673E|MUNS|PLANELLA||
+Vic|Institut de Vic|av. Sant Bernat Calbó, 8|4677K|TRAPE|ZZ||
+Vic|Institut de Vic|av. Sant Bernat Calbó, 8|4669Y|CRIACH|FOLCH||
+Vic|Institut de Vic|av. Sant Bernat Calbó, 8|4674D|PLANELLA|ROCHE||
+Vic|Institut de Vic|av. Sant Bernat Calbó, 8|4675A|ROCHE|SEBASTIA||
+Vic|Institut de Vic|av. Sant Bernat Calbó, 8|4670M|FOLCH|GUEVARA||
+Vic|Institut de Vic|av. Sant Bernat Calbó, 8|4671U|GUEVARA|MARIMON||
+Vic|Institut de Vic|av. Sant Bernat Calbó, 8|4672R|MARIMON|MUNS||
+Vic|Institut de Vic|av. Sant Bernat Calbó, 8|4666N|A|BAYOT||
+Vic|Institut de Vic|av. Sant Bernat Calbó, 8|4676X|SEBASTIA|TRAPE||
+Vic|Institut de Vic|av. Sant Bernat Calbó, 8|4668C|CASADO|CRIACH||

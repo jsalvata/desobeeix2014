@@ -1,0 +1,13 @@
+Tortosa|Institut Cristòfol Despuig|camí de Betània, 5|0860Q|PULGARIN|SALINAS||
+Tortosa|Institut Cristòfol Despuig|camí de Betània, 5|0857A|LLOBET|MAYO||
+Tortosa|Institut Cristòfol Despuig|camí de Betània, 5|0862T|TONDA|ZZ||
+Tortosa|Institut Cristòfol Despuig|camí de Betània, 5|0856D|GINATA|LLOBET||
+Tortosa|Institut Cristòfol Despuig|camí de Betània, 5|0861P|SALINAS|TONDA||
+Tortosa|Institut Cristòfol Despuig|camí de Betània, 5|0858X|MAYO|OSORIO||
+Tortosa|Institut Cristòfol Despuig|camí de Betània, 5|0854R|DOMINGO|FONS||
+Tortosa|Institut Cristòfol Despuig|camí de Betània, 5|0853U|CASTELLVI|DOMINGO||
+Tortosa|Institut Cristòfol Despuig|camí de Betània, 5|0851Y|BAILACH|BORREGO||
+Tortosa|Institut Cristòfol Despuig|camí de Betània, 5|0855E|FONS|GINATA||
+Tortosa|Institut Cristòfol Despuig|camí de Betània, 5|0852M|BORREGO|CASTELLVI||
+Tortosa|Institut Cristòfol Despuig|camí de Betània, 5|0850C|A|BAILACH||
+Tortosa|Institut Cristòfol Despuig|camí de Betània, 5|0859K|OSORIO|PULGARIN||

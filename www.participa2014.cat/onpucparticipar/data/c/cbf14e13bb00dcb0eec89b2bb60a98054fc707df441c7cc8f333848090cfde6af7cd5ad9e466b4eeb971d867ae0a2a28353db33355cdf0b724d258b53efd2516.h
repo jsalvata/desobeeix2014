@@ -1,0 +1,12 @@
+Lleida|Institut Josep Lladonosa|c. Jeroni Pujades, 16|5020A|RAMIRO|SALOME||
+Lleida|Institut Josep Lladonosa|c. Jeroni Pujades, 16|5015M|FRANCES|GRAUS||
+Lleida|Institut Josep Lladonosa|c. Jeroni Pujades, 16|5011N|A|BARRULL||
+Lleida|Institut Josep Lladonosa|c. Jeroni Pujades, 16|5013C|CARNE|DIAZ||
+Lleida|Institut Josep Lladonosa|c. Jeroni Pujades, 16|5016U|GRAUS|LOPEZALBERCA||
+Lleida|Institut Josep Lladonosa|c. Jeroni Pujades, 16|5021X|SALOME|TOME||
+Lleida|Institut Josep Lladonosa|c. Jeroni Pujades, 16|5018E|MOLET|PANADERO||
+Lleida|Institut Josep Lladonosa|c. Jeroni Pujades, 16|5019D|PANADERO|RAMIRO||
+Lleida|Institut Josep Lladonosa|c. Jeroni Pujades, 16|5012B|BARRULL|CARNE||
+Lleida|Institut Josep Lladonosa|c. Jeroni Pujades, 16|5014Y|DIAZ|FRANCES||
+Lleida|Institut Josep Lladonosa|c. Jeroni Pujades, 16|5022K|TOME|ZZ||
+Lleida|Institut Josep Lladonosa|c. Jeroni Pujades, 16|5017R|LOPEZALBERCA|MOLET||

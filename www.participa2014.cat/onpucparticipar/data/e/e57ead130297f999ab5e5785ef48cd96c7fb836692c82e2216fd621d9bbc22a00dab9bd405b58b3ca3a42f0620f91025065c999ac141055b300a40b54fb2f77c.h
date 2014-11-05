@@ -1,0 +1,12 @@
+Girona|Escola d'Hostaleria i Turisme de Girona|c. Josep Viader Moliner, 11|3937E|GURNES|LORA||
+Girona|Escola d'Hostaleria i Turisme de Girona|c. Josep Viader Moliner, 11|3934M|CASAGRAN|DELLONDER||
+Girona|Escola d'Hostaleria i Turisme de Girona|c. Josep Viader Moliner, 11|3942Q|SALAH|TORMO||
+Girona|Escola d'Hostaleria i Turisme de Girona|c. Josep Viader Moliner, 11|3940X|PASTEN|RECASENS||
+Girona|Escola d'Hostaleria i Turisme de Girona|c. Josep Viader Moliner, 11|3941K|RECASENS|SALAH||
+Girona|Escola d'Hostaleria i Turisme de Girona|c. Josep Viader Moliner, 11|3938D|LORA|MOLINAS||
+Girona|Escola d'Hostaleria i Turisme de Girona|c. Josep Viader Moliner, 11|3933Y|BENITO|CASAGRAN||
+Girona|Escola d'Hostaleria i Turisme de Girona|c. Josep Viader Moliner, 11|3939A|MOLINAS|PASTEN||
+Girona|Escola d'Hostaleria i Turisme de Girona|c. Josep Viader Moliner, 11|3943P|TORMO|ZZ||
+Girona|Escola d'Hostaleria i Turisme de Girona|c. Josep Viader Moliner, 11|3936R|FROU|GURNES||
+Girona|Escola d'Hostaleria i Turisme de Girona|c. Josep Viader Moliner, 11|3932C|A|BENITO||
+Girona|Escola d'Hostaleria i Turisme de Girona|c. Josep Viader Moliner, 11|3935U|DELLONDER|FROU||

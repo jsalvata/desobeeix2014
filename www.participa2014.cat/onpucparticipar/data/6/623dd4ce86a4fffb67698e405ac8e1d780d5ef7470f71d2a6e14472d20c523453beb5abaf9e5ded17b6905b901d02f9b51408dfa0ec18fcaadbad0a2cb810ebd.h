@@ -1,0 +1,12 @@
+Molins de Rei|Institut Bernat el Ferrer|c. Ntra. Sra. de Lourdes, 34|1354N|ROMEU|SOLEDISPA||
+Molins de Rei|Institut Bernat el Ferrer|c. Ntra. Sra. de Lourdes, 34|1350F|LOPEZ|MARTRAT||
+Molins de Rei|Institut Bernat el Ferrer|c. Ntra. Sra. de Lourdes, 34|1355B|SOLEDISPA|ZZ||
+Molins de Rei|Institut Bernat el Ferrer|c. Ntra. Sra. de Lourdes, 34|1344P|A|BELLISCO||
+Molins de Rei|Institut Bernat el Ferrer|c. Ntra. Sra. de Lourdes, 34|1353W|PLAZAS|ROMEU||
+Molins de Rei|Institut Bernat el Ferrer|c. Ntra. Sra. de Lourdes, 34|1346S|CASTELLNOU|ECHAVARRIA||
+Molins de Rei|Institut Bernat el Ferrer|c. Ntra. Sra. de Lourdes, 34|1352Z|NAVARTA|PLAZAS||
+Molins de Rei|Institut Bernat el Ferrer|c. Ntra. Sra. de Lourdes, 34|1345T|BELLISCO|CASTELLNOU||
+Molins de Rei|Institut Bernat el Ferrer|c. Ntra. Sra. de Lourdes, 34|1349G|GRANADERO|LOPEZ||
+Molins de Rei|Institut Bernat el Ferrer|c. Ntra. Sra. de Lourdes, 34|1347J|ECHAVARRIA|GARCIA||
+Molins de Rei|Institut Bernat el Ferrer|c. Ntra. Sra. de Lourdes, 34|1348H|GARCIA|GRANADERO||
+Molins de Rei|Institut Bernat el Ferrer|c. Ntra. Sra. de Lourdes, 34|1351V|MARTRAT|NAVARTA||

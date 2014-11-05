@@ -1,0 +1,10 @@
+Amposta|Institut Ramon Berenguer IV|av. Mestre J. Sunyer, 1-37|4457Z|RUEDA|TERUEL||
+Amposta|Institut Ramon Berenguer IV|av. Mestre J. Sunyer, 1-37|4454G|LOR|MORERA||
+Amposta|Institut Ramon Berenguer IV|av. Mestre J. Sunyer, 1-37|4449P|A|BELTRI||
+Amposta|Institut Ramon Berenguer IV|av. Mestre J. Sunyer, 1-37|4455F|MORERA|PUIGCERVER||
+Amposta|Institut Ramon Berenguer IV|av. Mestre J. Sunyer, 1-37|4452J|FERREIRA|GIMENO||
+Amposta|Institut Ramon Berenguer IV|av. Mestre J. Sunyer, 1-37|4451S|CHACON|FERREIRA||
+Amposta|Institut Ramon Berenguer IV|av. Mestre J. Sunyer, 1-37|4458W|TERUEL|ZZ||
+Amposta|Institut Ramon Berenguer IV|av. Mestre J. Sunyer, 1-37|4456V|PUIGCERVER|RUEDA||
+Amposta|Institut Ramon Berenguer IV|av. Mestre J. Sunyer, 1-37|4450T|BELTRI|CHACON||
+Amposta|Institut Ramon Berenguer IV|av. Mestre J. Sunyer, 1-37|4453H|GIMENO|LOR||

@@ -1,0 +1,9 @@
+Garriga, la|Institut Manuel Blancafort|av. 11 de Setembre, s/n|6471K|BUFI|DAMAS||
+Garriga, la|Institut Manuel Blancafort|av. 11 de Setembre, s/n|6473P|GARCIA|IBANEZ||
+Garriga, la|Institut Manuel Blancafort|av. 11 de Setembre, s/n|6474T|IBANEZ|MARTINS||
+Garriga, la|Institut Manuel Blancafort|av. 11 de Setembre, s/n|6475S|MARTINS|OVIEDO||
+Garriga, la|Institut Manuel Blancafort|av. 11 de Setembre, s/n|6472Q|DAMAS|GARCIA||
+Garriga, la|Institut Manuel Blancafort|av. 11 de Setembre, s/n|6478G|SERRAS|ZZ||
+Garriga, la|Institut Manuel Blancafort|av. 11 de Setembre, s/n|6476J|OVIEDO|RIPOLL||
+Garriga, la|Institut Manuel Blancafort|av. 11 de Setembre, s/n|6477H|RIPOLL|SERRAS||
+Garriga, la|Institut Manuel Blancafort|av. 11 de Setembre, s/n|6470X|A|BUFI||

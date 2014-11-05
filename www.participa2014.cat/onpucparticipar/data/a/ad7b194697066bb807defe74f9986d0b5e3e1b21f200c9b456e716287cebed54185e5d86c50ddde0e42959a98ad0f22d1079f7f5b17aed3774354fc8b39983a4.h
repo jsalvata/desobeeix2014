@@ -1,0 +1,16 @@
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|3994G|LORA|MAYO||
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|3996V|NIEVA|PERICH||
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|4001C|VALENTIN|ZZ||
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|3986X|A|BALTASAR||
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|3992J|GILABERT|HUGUET||
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|4000B|SERRATS|VALENTIN||
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|3989P|CEJAS|DELLONDER||
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|3990T|DELLONDER|FERRERA||
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|3987K|BALTASAR|CABERO||
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|3998W|RECHE|ROVIROLA||
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|3995F|MAYO|NIEVA||
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|3988Q|CABERO|CEJAS||
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|3999N|ROVIROLA|SERRATS||
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|3997Z|PERICH|RECHE||
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|3993H|HUGUET|LORA||
+Girona|Institut Santiago Sobrequés i Vidal|c. Joan Reglà, 2-4|3991S|FERRERA|GILABERT||

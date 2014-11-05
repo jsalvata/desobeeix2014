@@ -1,0 +1,10 @@
+Lloret de Mar|Institut Rocagrossa|c. Rosa Sensat, 1-11|5197C|FERRERA|GRACIA||
+Lloret de Mar|Institut Rocagrossa|c. Rosa Sensat, 1-11|5200U|MORAN|PINTOR||
+Lloret de Mar|Institut Rocagrossa|c. Rosa Sensat, 1-11|5203D|SOLES|ZZ||
+Lloret de Mar|Institut Rocagrossa|c. Rosa Sensat, 1-11|5194W|A|BORRELL||
+Lloret de Mar|Institut Rocagrossa|c. Rosa Sensat, 1-11|5202E|ROMANO|SOLES||
+Lloret de Mar|Institut Rocagrossa|c. Rosa Sensat, 1-11|5199M|LUCAS|MORAN||
+Lloret de Mar|Institut Rocagrossa|c. Rosa Sensat, 1-11|5196B|COMAJUAN|FERRERA||
+Lloret de Mar|Institut Rocagrossa|c. Rosa Sensat, 1-11|5198Y|GRACIA|LUCAS||
+Lloret de Mar|Institut Rocagrossa|c. Rosa Sensat, 1-11|5201R|PINTOR|ROMANO||
+Lloret de Mar|Institut Rocagrossa|c. Rosa Sensat, 1-11|5195N|BORRELL|COMAJUAN||

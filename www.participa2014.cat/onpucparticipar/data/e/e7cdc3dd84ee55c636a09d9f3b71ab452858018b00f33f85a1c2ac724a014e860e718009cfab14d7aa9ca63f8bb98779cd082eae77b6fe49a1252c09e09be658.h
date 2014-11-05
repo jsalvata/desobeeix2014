@@ -1,0 +1,12 @@
+Sant Feliu de Guíxols|Institut de Sant Feliu de Guíxols|c. Canigó, 41|0953P|GALLART|GUTIERREZ||
+Sant Feliu de Guíxols|Institut de Sant Feliu de Guíxols|c. Canigó, 41|0958G|RABASSA|RUS||
+Sant Feliu de Guíxols|Institut de Sant Feliu de Guíxols|c. Canigó, 41|0955S|LORENZO|MOLERO||
+Sant Feliu de Guíxols|Institut de Sant Feliu de Guíxols|c. Canigó, 41|0949A|A|BENITO||
+Sant Feliu de Guíxols|Institut de Sant Feliu de Guíxols|c. Canigó, 41|0951K|CASTELLS|DONA||
+Sant Feliu de Guíxols|Institut de Sant Feliu de Guíxols|c. Canigó, 41|0957H|PALLEJA|RABASSA||
+Sant Feliu de Guíxols|Institut de Sant Feliu de Guíxols|c. Canigó, 41|0959F|RUS|TARRATS||
+Sant Feliu de Guíxols|Institut de Sant Feliu de Guíxols|c. Canigó, 41|0952Q|DONA|GALLART||
+Sant Feliu de Guíxols|Institut de Sant Feliu de Guíxols|c. Canigó, 41|0960V|TARRATS|ZZ||
+Sant Feliu de Guíxols|Institut de Sant Feliu de Guíxols|c. Canigó, 41|0956J|MOLERO|PALLEJA||
+Sant Feliu de Guíxols|Institut de Sant Feliu de Guíxols|c. Canigó, 41|0954T|GUTIERREZ|LORENZO||
+Sant Feliu de Guíxols|Institut de Sant Feliu de Guíxols|c. Canigó, 41|0950X|BENITO|CASTELLS||

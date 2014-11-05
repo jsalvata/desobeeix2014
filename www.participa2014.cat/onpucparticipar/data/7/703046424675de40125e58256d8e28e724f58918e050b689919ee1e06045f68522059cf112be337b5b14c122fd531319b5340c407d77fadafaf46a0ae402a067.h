@@ -1,0 +1,15 @@
+Lleida|Institut Maria Rúbies|c. Boqué/av. Pla d'Urgell, s/n|5034N|A|BALANA||
+Lleida|Institut Maria Rúbies|c. Boqué/av. Pla d'Urgell, s/n|5035B|BALANA|CABALLOL||
+Lleida|Institut Maria Rúbies|c. Boqué/av. Pla d'Urgell, s/n|5041E|JOVELLAR|MARQUILLES||
+Lleida|Institut Maria Rúbies|c. Boqué/av. Pla d'Urgell, s/n|5042D|MARQUILLES|MONCLUS||
+Lleida|Institut Maria Rúbies|c. Boqué/av. Pla d'Urgell, s/n|5044X|ORUS|PONTI||
+Lleida|Institut Maria Rúbies|c. Boqué/av. Pla d'Urgell, s/n|5046Q|ROFES|SARABIA||
+Lleida|Institut Maria Rúbies|c. Boqué/av. Pla d'Urgell, s/n|5037Y|CHANCHO|DUASO||
+Lleida|Institut Maria Rúbies|c. Boqué/av. Pla d'Urgell, s/n|5043A|MONCLUS|ORUS||
+Lleida|Institut Maria Rúbies|c. Boqué/av. Pla d'Urgell, s/n|5039U|FRADE|GONI||
+Lleida|Institut Maria Rúbies|c. Boqué/av. Pla d'Urgell, s/n|5047P|SARABIA|TORREZ||
+Lleida|Institut Maria Rúbies|c. Boqué/av. Pla d'Urgell, s/n|5038M|DUASO|FRADE||
+Lleida|Institut Maria Rúbies|c. Boqué/av. Pla d'Urgell, s/n|5036C|CABALLOL|CHANCHO||
+Lleida|Institut Maria Rúbies|c. Boqué/av. Pla d'Urgell, s/n|5048T|TORREZ|ZZ||
+Lleida|Institut Maria Rúbies|c. Boqué/av. Pla d'Urgell, s/n|5040R|GONI|JOVELLAR||
+Lleida|Institut Maria Rúbies|c. Boqué/av. Pla d'Urgell, s/n|5045K|PONTI|ROFES||
